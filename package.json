@@ -1,6 +1,6 @@
 {
   "name": "retcha",
-  "version": "0.0.0",
+  "version": "0.0.6",
   "description": "A captcha component for React",
   "author": "Dirk Mennecke",
   "keywords": [],
